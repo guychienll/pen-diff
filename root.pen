@@ -20,7 +20,12 @@
           "x": 47.0000000000002,
           "y": 88.00000000000009,
           "rotation": 2.4251729446159314e-14,
-          "fill": "#ff0000ff",
+          "fill": {
+            "type": "image",
+            "enabled": true,
+            "url": "232543043.jpeg",
+            "mode": "fill"
+          },
           "width": 200,
           "height": 200
         }
