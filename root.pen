@@ -4,29 +4,25 @@
     {
       "type": "frame",
       "id": "BCm8s",
-      "x": 180,
-      "y": 228,
+      "x": -309,
+      "y": 149,
       "name": "Frame 1",
       "clip": true,
-      "width": 294,
-      "height": 376,
+      "width": 794,
+      "height": 765,
       "fill": "#FFFFFF",
       "layout": "none",
       "children": [
         {
-          "type": "rectangle",
-          "id": "KYrZB",
-          "x": 0,
-          "y": 5.684341886080802e-14,
-          "rotation": 2.4251729446159314e-14,
-          "fill": {
-            "type": "image",
-            "enabled": true,
-            "url": "232543043.jpeg",
-            "mode": "fill"
-          },
-          "width": 294,
-          "height": 376
+          "type": "icon_font",
+          "id": "5mzKe",
+          "x": 297.1983346808712,
+          "y": 285.0861937961082,
+          "width": 270,
+          "height": 270,
+          "iconFontName": "heart",
+          "iconFontFamily": "lucide",
+          "fill": "#000000"
         }
       ]
     }
