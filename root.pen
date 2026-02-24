@@ -15,9 +15,11 @@
       "children": [
         {
           "type": "rectangle",
+          "cornerRadius": 100,
           "id": "KYrZB",
-          "x": 47,
-          "y": 88,
+          "x": 47.0000000000002,
+          "y": 88.00000000000009,
+          "rotation": 2.4251729446159314e-14,
           "fill": "#CCCCCC",
           "width": 200,
           "height": 200
